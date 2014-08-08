@@ -1,0 +1,119 @@
+#wrapper{
+	width:1210px;
+	height:630px;
+	border:5px solid white;
+	margin:0px auto;
+	background-color:skyblue;}
+
+#header{
+	width:1160px;
+	height:500px;
+	border:5px solid orange;
+	margin:10px auto;
+	background-color:white;}
+#log1{
+	width:1160px;
+	height:100px;
+	margin:0px 0px 0px 0px;}
+	#box1{
+	width:370px;
+	height:220px;
+	margin:0px 0px 0px 10px;
+	float:left;
+	border-radius:15px;
+	background-color:blue;}
+#box11{width:350px;
+	height:120px;
+	margin:0px 0px 0px 10px;
+	border-radius:12px;
+	background-color:white;}
+	#boxa{width:170px;
+	height:100px;
+	margin:10px 0px 0px 10px;
+	float:left;}
+	#boxb{width:130px;
+	height:100px;
+	margin:0px 0px 0px 0px;
+	float:right;}
+	#box2{
+	width:370px;
+	height:220px;
+	margin:0px 0px 0px 10px;
+	border-radius:15px;
+	float:left;
+	background-color:blue;}
+	#box22{	width:350px;
+	height:120px;
+	margin:20px 0px 0px 10px;
+	background-color:white;
+	border-radius:12px;}
+	#boxc{width:280px;
+	height:50px;
+	margin:50px 0px 0px 40px;
+	float:left;}
+	
+	#box3{
+	width:370px;
+	height:230px;
+	margin:0px 10px 0px 10px;
+	border-radius:15px;
+	float:right;
+	background-color:blue;}
+#box33{width:350px;
+	height:140px;
+	margin:20px 10px 0px 10px;
+	border-radius:12px;
+	background-color:white;}
+	#boxe{width:200px;
+	height:40px;
+	margin:10px 0px 0px 10px;
+	float:left;}
+	#boxf{width:200px;
+	height:65px;
+	margin:10px 0px 0px 10px;
+	float:left;}
+	#boxf1{width:90px;
+	height:50px;
+	margin:10px 0px 0px 10px;
+	float:left;}
+	#boxf2{width:70px;
+	height:40px;
+	float:right;
+	margin:10px 0px 0px 10px;
+	}
+	#boxg{width:100px;
+	height:120px;
+	float:right;
+	line-height:30px;
+	margin:-50px 10px 0px 10px;
+	}
+	#images{
+	width:450px;
+	height:90px;
+	margin:270px 0px 0px 380px;
+	background:url("../images/quote_benefits.jpg")no-repeat;}
+	
+#footer{
+	width:1180px;
+	height:90px;
+	
+	margin:10px 0px 0px 10px;}
+
+	#footer1{
+	width:150px;
+	height:40px;
+	float:left;
+	margin:10px 10px 10px 10px;
+	background:url("../images/als_logo_trust_large.png")no-repeat;float:left;}
+	
+	#footer2{
+	width:250px;
+	height:40px;
+	float:left;
+	margin:40px 10px 10px 10px;}
+	#footer3{
+	width:100px;
+	height:40px;
+	float:right;
+	margin:20px 30px 10px 10px;
+	background:url("../images/btn_continue_over.png")no-repeat;float:right;}
